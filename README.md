@@ -9,3 +9,13 @@ Features:
 
 -3 mapable keys
 - potenital for adding on extra components 
+
+
+Material cost
+
+I will use my own printer and pla filament
+
+As i am in australia the shipping costs for the pcb is higher
+
+1 custom PCB from JLCPCB for 21.72$ AUD inc shipping
+Hackpad kit 
